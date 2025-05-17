@@ -4,13 +4,9 @@
 
 A modern, responsive real estate landing page built with React. Showcases property highlights, clean UI, and smooth user experience – perfect for showcasing listings or starting a real estate platform.
 
----
-
 ## **Live Demo**
 
 [View Live](https://your-demo-link.com)
-
----
 
 ## **Table of Contents**
 
@@ -22,8 +18,6 @@ A modern, responsive real estate landing page built with React. Showcases proper
 - [License](#license)
 - [Connect](#connect)
 
----
-
 ## **Features**
 
 - Fully responsive layout
@@ -31,8 +25,6 @@ A modern, responsive real estate landing page built with React. Showcases proper
 - Lightweight, no dependencies
 - Easy to style and integrate
 - Cross-browser support
-
----
 
 ## **Installation**
 
@@ -66,9 +58,9 @@ Deploy your app on platforms like:
 - Netlify
 - GitHub Pages
 
-## **🌐 Connect**
+## 🌐 **Connect**
 
-Feel free to connect or check out more:
+Feel free to connect or check out more of my work:
 
-- GitHub: codewithharshal
-- LinkedIn: harshalsewatkar
+- [GitHub](https://github.com/codewithharshal)
+- [LinkedIn](https://linkedin.com/in/harshalsewatkar)
